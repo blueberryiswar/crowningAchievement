@@ -1,0 +1,10 @@
+@font-face {
+	font-family: "8bit";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../fonts/8bit.ttf");
+}
+
+body {
+	margin: 0;
+}
